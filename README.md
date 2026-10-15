@@ -109,9 +109,20 @@ This repository will be revisited and expanded once core priorities are complete
 
 ---
 
-## 👤 Author
-  
-<a href="https://github.com/SumeetBhosale17">
-    <img src="https://github.com/SumeetBhosale17.png" width="80px;" alt="Sumeet Bhosale"/>
-    <br />
-    <sub><b>Sumeet Bhosale</b></sub>
+## Contributors
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SumeetBhosale17">
+        <img src="https://github.com/SumeetBhosale17.png" width="80px;" alt="Sumeet Bhosale"/><br />
+        <sub><b>Sumeet Bhosale</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/viveksisal">
+        <img src="https://github.com/viveksisal.png" width="80px;" alt="Vivek Sisal"/><br />
+        <sub><b>Vivek Sisal</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
